@@ -56,6 +56,11 @@ I am currently taking a gap semester to intern at Tesla as a software engineer i
 - CS 3100: Data Structures and Algorithms 2
 - CS 3140: Software Development Essentials
 
+## Currently working on 🤫
+- Implementing a poker solver using DeepCFR
+- Learning about database systems (CMU 15-445/645)
+- Exploring topics in quantitative finance
+
 ## Socials 📱
 
 My website (coming soon)!
