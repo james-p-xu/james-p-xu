@@ -63,11 +63,11 @@ I am currently taking a gap semester to intern at Tesla as a software engineer i
 
 ## Socials 📱
 
-My website (coming soon)!
+[Personal site](https://www.jamespxu.com/) (still a WIP)!
 
 [LinkedIn](https://linkedin.com/in/james-p-xu)
 
-[School Email](mailto:wgj4gx@virginia.edu)
+[School email](mailto:wgj4gx@virginia.edu)
 
 <!--
 **james-p-xu/james-p-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
